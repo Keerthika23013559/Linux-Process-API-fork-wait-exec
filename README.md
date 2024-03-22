@@ -40,7 +40,7 @@ Test the C Program for the desired output.
 
 
 
-##OUTPUT
+## OUTPUT
 
 
 
@@ -69,7 +69,7 @@ Test the C Program for the desired output.
 
 
 
-##OUTPUT
+## OUTPUT
 
 
 
@@ -105,7 +105,7 @@ Test the C Program for the desired output.
 
 
 
-##OUTPUT
+## OUTPUT
 
 
 
